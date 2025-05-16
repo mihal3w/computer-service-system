@@ -1,0 +1,16 @@
+PR100;Acer Aspire 5;Лаптоп;Acer;1200.00
+PR101;Asus TUF Gaming;Лаптоп;Asus;1580.00
+PR102;Lenovo IdeaPad;Лаптоп;Lenovo;890.00
+PR103;HP Pavilion;Лаптоп;HP;1340.00
+PR104;Dell Inspiron;Лаптоп;Dell;1420.00
+PR200;HP 24mh;Монитор;HP;320.00
+PR201;Asus ProArt;Монитор;Asus;450.00
+PR202;LG UltraFine;Монитор;LG;500.00
+PR203;Samsung Smart;Монитор;Samsung;390.00
+PR204;BenQ GW2780;Монитор;BenQ;370.00
+PR300;Logitech MX Master 3;Мишка;Logitech;150.00
+PR301;Microsoft Sculpt;Мишка;Microsoft;165.00
+PR302;Razer DeathAdder;Мишка;Razer;180.00
+PR303;A4Tech Bloody;Мишка;A4Tech;90.00
+PR304;HP X500;Мишка;HP;75.00
+PR305;асд;асд;асд;23.00
